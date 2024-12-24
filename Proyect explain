@@ -1,0 +1,25 @@
+# Instrucciones de uso para **ScoreTrack**
+
+Este documento explica cómo utilizar el programa **ScoreTrack**, una aplicación de consola en C# para gestionar estadísticas de jugadores de fútbol. A continuación se describen los pasos para ejecutar y usar la aplicación correctamente.
+
+## Requisitos previos
+
+Para poder ejecutar el proyecto, necesitas tener instalado lo siguiente en tu computadora:
+
+- **.NET SDK** para compilar y ejecutar el proyecto (recomendado .NET 6.0 o superior).
+- Un editor de código o IDE compatible con C# (Visual Studio, Visual Studio Code, etc.).
+
+## Pasos para usar el proyecto
+
+### 1. Descargar el Proyecto
+
+Si aún no tienes el proyecto en tu computadora, sigue estos pasos:
+
+- **Clonar el repositorio**:
+  ```bash
+  git clone https://github.com/tu_usuario/ScoreTrack.git
+
+Este **README** está centrado en explicar cómo interactuar con el proyecto paso a paso, proporcionando detalles sobre el menú y cada opción disponible en la aplicación. ¡Espero que te sea útil!
+
+
+
