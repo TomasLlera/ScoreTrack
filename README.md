@@ -29,6 +29,14 @@ Este proyecto fue diseñado para ser presentado al final de año, aunque algunas
 - **.NET SDK** (C#) para compilar y ejecutar el proyecto.
 - **Conocimientos básicos de C#**: El proyecto utiliza estructuras de datos como listas, estructuras y operaciones básicas de consola.
 
+## Mejoras Realizadas Version 2.0
+
+- **Optimización de la carga de datos**: La carga inicial de jugadores y equipos ahora se realiza automáticamente al iniciar la aplicación, haciendo que la experiencia de usuario sea más fluida.
+- **Mejoras en la interfaz de usuario**: Se han realizado cambios en la forma de mostrar las estadísticas para que sean más fáciles de leer, con una mejor organización de los datos en tablas.
+- **Funcionalidad de búsqueda de jugadores**: Implementación de un sistema de búsqueda que permite encontrar jugadores por nombre o apellido, mostrando su equipo.
+- **Ordenación de jugadores**: Se implementó la capacidad de ordenar a los jugadores por nombre, goles o edad, para facilitar su análisis.
+- **Manejo de errores y validación de datos**: Se han añadido validaciones para asegurar que los datos ingresados sean correctos y evitar errores en la entrada.
+
 ## Instalación
 
 1. Clona este repositorio en tu máquina local:
